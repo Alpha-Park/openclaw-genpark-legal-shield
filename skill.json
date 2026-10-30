@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-legal-shield",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Legal Shield - Autonomous contract clause compliance and deontic logic auditor with liability exposure and conflict detection.",
+  "tools": [
+    "parse_deontic_clauses",
+    "detect_contradictions_and_conflicts",
+    "audit_liability_and_compliance"
+  ]
+}
